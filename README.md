@@ -6,7 +6,7 @@
 <li>Mashiur </li>
 </ul>
 
-In this class we learned about various Design Patterns, I worked on the Observer Pattern for this project: <br>:
+In this class we learned about various Design Patterns, I worked on the Observer Pattern for this project: <br>
 
 <ul>
 <li>Message.java</li>
